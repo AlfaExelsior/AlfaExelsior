@@ -9,10 +9,12 @@ I'm a self-proclaimed perfectionist who believes in "Doing It Right the First Ti
 Front-End Magic: HTML5, CSS3, JavaScript (Vanilla & React), even dabbling in Motoko 🪄
 Back-End Powerhouse: Python, Java, SQL (with pgAdmin), and whatever else it takes to make the internet go vroom! 🏎️
 Blockchain & Beyond: Exploring the decentralized web with Internet Computer, Blockchain, and DFINITY. ⛓️
+
 💖 What Makes My Heart Go <3
 Python: My go-to language for quick & dirty prototyping or architecting complex systems. 🐍
 Java: The muscle car of languages, perfect for building robust, high-performance applications. 💪
 The Decentralized Future: I'm fascinated by the potential of blockchain to revolutionize the way we interact with the internet. ✨
+
 🤝 Let's Build Something Amazing!
 Always eager to collaborate on new projects! Hit me up if you need a dedicated dev, some tech advice, or just want to chat. 😊
 
