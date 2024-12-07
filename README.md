@@ -1,4 +1,4 @@
-<p>✨ Hello World, I'm **Ivana (Exelsior)**! ✨</p><br>
+## ✨ Hello World, I'm **Ivana (Exelsior)**! ✨</p><br>
 
 Full-Stack Web Dev Wizard 🧙‍♀️ & Problem-Solving Guru 🧠. Passionate about the heart of computing, I dive deep into every byte! 🚀 From the web's front lines to the blockchain's depths, I'm exploring it all! 🌐
 
