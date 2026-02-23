@@ -1,61 +1,40 @@
 # Ivana Osmajlic
 
-AI Automation & Systems Developer  
-Full-Stack (React · Python) · Scalable API & Backend Architecture
+Backend & Systems Engineer  
+AI Automation · Scalable Architectures · Python
 
----
+I engineer backend systems that automate complex processes, integrate intelligent components, and operate reliably at scale.
 
-## Professional Summary
+With a background in Economics and formal qualifications in Computer Science, I bridge strategic business thinking with system-level engineering. My work centers around backend architecture, AI-driven automation, and the design of modular, API-oriented infrastructures built for performance, scalability, and long-term maintainability.
 
-I design and engineer scalable software systems that automate complex workflows and transform data into intelligent, production-ready solutions.
+I develop end-to-end systems that connect data acquisition, processing pipelines, machine learning integration, and production-ready APIs into cohesive, extensible architectures.
 
-With a background in Economics and formal qualifications in Computer Science, I bridge business strategy with technical architecture. My expertise lies in building AI-driven automation systems, integrating machine learning models, and developing backend infrastructures designed for performance, reliability, and scale.
+## Areas of Expertise
 
-I specialize in end-to-end system development — from data acquisition and processing to model integration and user-facing applications.
+- Backend & API Architecture (FastAPI / Flask)
+- Distributed & Modular System Design
+- AI Automation & Agent-Based Systems
+- Machine Learning Integration & Deployment
+- LLM & AI Chatbot Engineering
+- Web Crawling, Data Pipelines & Processing Layers
+- Full-Stack Integration (React · TypeScript · Python)
+- Linux-Based Development & Infrastructure Awareness
 
----
+## Engineering Principles
 
-## Core Expertise
+My approach to engineering is systems-first and architecture-driven. I prioritize:
 
-- AI Automation & Agent-Based Systems  
-- LLM & AI Chatbot Integration  
-- Machine Learning Deployment & Model Integration  
-- Web Crawling, Data Pipelines & Data Processing  
-- REST API & Backend Architecture (FastAPI / Flask)  
-- Full-Stack Development (React · TypeScript · Python)  
-- Workflow Orchestration & System Design  
-- Linux-Based Development & Infrastructure Awareness  
+- Scalability by design  
+- Clear API contracts  
+- Separation of concerns  
+- Modularity and extensibility  
+- Performance-conscious implementation  
 
----
+I focus on building coherent systems rather than isolated features — solutions that reduce operational complexity and deliver measurable impact.
 
-## Engineering Focus
+## Professional Focus
 
-My work commonly involves:
-
-- Designing automation architectures that reduce operational complexity  
-- Building AI agent systems with structured tool integrations  
-- Developing scalable APIs and modular backend services  
-- Implementing web crawlers and structured data pipelines  
-- Integrating machine learning models into production environments  
-- Delivering full-stack solutions that connect business logic with intelligent processing layers  
-
----
-
-## Approach
-
-I approach software engineering with a systems-first mindset. Every solution is designed with scalability, modularity, performance, and long-term maintainability in mind.
-
-I prioritize architectural clarity and measurable impact over feature-driven development.
-
----
-
-## Availability
+Currently focused on advanced AI automation architectures, intelligent backend systems, and scalable API ecosystems.
 
 Open to:
-
-- AI Automation & Intelligent Systems Projects  
-- Backend & API Architecture Roles  
-- Remote Full-Stack Engineering Positions  
-- Technical Consulting in Automation & System Design  
-
-LinkedIn: https://www.linkedin.com/in/ivana-osmajlic
+Backend & Systems Engineering Roles · AI Automation Projects · Remote Senior-Level Opportunities · Technical Consulting
