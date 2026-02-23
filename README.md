@@ -1,44 +1,61 @@
-<p>✨ Hello World, I'm **Ivana (Exelsior)**! ✨</p><br>
+# Ivana Osmajlic
 
-Full-Stack Web Dev Wizard 🧙‍♀️ & Problem-Solving Guru 🧠. Passionate about the heart of computing, I dive deep into every byte! 🚀 From the web's front lines to the blockchain's depths, I'm exploring it all! 🌐
-
----
-
-## 🚀 About Me  
-I'm a self-proclaimed perfectionist who believes in **"Doing It Right the First Time"** 💯. Learning is my **fuel**, and **growth** is **my game**! 💪 I love connecting with fellow tech enthusiasts and building awesome things together. 🤝  
+AI Automation & Systems Developer  
+Full-Stack (React · Python) · Scalable API & Backend Architecture
 
 ---
 
-## 🛠️ My Tech Toolbox  
-- **Front-End Magic:** HTML5, CSS3, JavaScript (Vanilla & React), even dabbling in Motoko 🪄  
-- **Back-End Powerhouse:** Python, Java, SQL (with pgAdmin), and whatever else it takes to make the internet go vroom! 🏎️  
-- **Blockchain & Beyond:** Exploring the decentralized web with Internet Computer, Blockchain, and DFINITY. ⛓️  
+## Professional Summary
+
+I design and engineer scalable software systems that automate complex workflows and transform data into intelligent, production-ready solutions.
+
+With a background in Economics and formal qualifications in Computer Science, I bridge business strategy with technical architecture. My expertise lies in building AI-driven automation systems, integrating machine learning models, and developing backend infrastructures designed for performance, reliability, and scale.
+
+I specialize in end-to-end system development — from data acquisition and processing to model integration and user-facing applications.
 
 ---
 
-## 💖 What Makes My Heart Go <3  
+## Core Expertise
 
-- **Python:** My go-to language for quick & dirty prototyping or architecting complex systems. 🐍  
-- **Java:** The muscle car of languages, perfect for building robust, high-performance applications. 💪  
-- **Cybersecurity:** Currently diving deep into the realms of cybersecurity, learning Python, SQL, and Linux to fortify my knowledge and enter the exciting world of ethical hacking and system protection. 🛡️  
-- **The Decentralized Future:** I'm fascinated by the potential of blockchain to revolutionize the way we interact with the internet. ✨  
-
----
-
-## 🤝 Let's Build Something Amazing!  
-Always eager to collaborate on new projects! Hit me up if you need a dedicated dev, some tech advice, or just want to chat. 😊  
-
----
-
-## 📫 Reach Out & Say "Hi!"  
-Find me on **[LinkedIn](https://www.linkedin.com/in/ivana-osmajlic/)** – I'll get back to you ASAP! 💌  
+- AI Automation & Agent-Based Systems  
+- LLM & AI Chatbot Integration  
+- Machine Learning Deployment & Model Integration  
+- Web Crawling, Data Pipelines & Data Processing  
+- REST API & Backend Architecture (FastAPI / Flask)  
+- Full-Stack Development (React · TypeScript · Python)  
+- Workflow Orchestration & System Design  
+- Linux-Based Development & Infrastructure Awareness  
 
 ---
 
-## 📚 My Tech Musings  
-I love sharing what I learn! Catch my articles on my LinkedIn profile.  
+## Engineering Focus
+
+My work commonly involves:
+
+- Designing automation architectures that reduce operational complexity  
+- Building AI agent systems with structured tool integrations  
+- Developing scalable APIs and modular backend services  
+- Implementing web crawlers and structured data pipelines  
+- Integrating machine learning models into production environments  
+- Delivering full-stack solutions that connect business logic with intelligent processing layers  
 
 ---
 
-Remember, never stop learning, never stop growing! 🚀  
-**"With great power, comes great responsibility."** - Your Friendly Neighborhood Web Dev 🕸️
+## Approach
+
+I approach software engineering with a systems-first mindset. Every solution is designed with scalability, modularity, performance, and long-term maintainability in mind.
+
+I prioritize architectural clarity and measurable impact over feature-driven development.
+
+---
+
+## Availability
+
+Open to:
+
+- AI Automation & Intelligent Systems Projects  
+- Backend & API Architecture Roles  
+- Remote Full-Stack Engineering Positions  
+- Technical Consulting in Automation & System Design  
+
+LinkedIn: https://www.linkedin.com/in/ivana-osmajlic
