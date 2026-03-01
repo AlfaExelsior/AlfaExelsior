@@ -1,4 +1,4 @@
-# Ivana Osmajlic
+# Exelsior
 
 Backend & Systems Engineer  
 AI Automation · Scalable Architectures · Python
